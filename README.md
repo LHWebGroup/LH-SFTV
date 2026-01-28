@@ -7,14 +7,17 @@
 ## 🌟 核心站点导航
 *点击下方卡片或链接，直接跳转至对应资源*
 
-### 1. 🏠 项目官方主页 (Official Website)
+### 1. 🏠 官方主页 (Official Website)
 * **地址：** [shafatv.com](https://www.yourdomain.com)
-* **描述：** 获取最新动态、详细介绍与可视化展示。
+* **描述：** 沙发TV - 免费高清影视在线看 | 最新电影、电视剧、综艺、动漫一站式观看平台。
 
-### 2. 💻 核心代码仓库 (Main Source Code)
-* **地址：** [https://github.com/your-org/main-repo](https://github.com/your-org/main-repo)
-* **状态：** `Active` | `v2.4.0`
-* **简述：** 整个系统的核心后端逻辑与 API 接口。
+### 2. 💻 备用地址 (Alternative Website)
+* **地址1：** [52sofa.tv]
+* **地址2：** [52sofa.com]
+* **地址3：** [52sofa.top]
+* **地址4：** [52sofa.tw]
+* **地址5：** [52sofa.xyz]
+* **地址6：** [52sofa.vip]
 
 ### 3. 📱 移动端/客户端 (Clients)
 * **Android：** [点击下载 APK](#)
