@@ -12,12 +12,16 @@
 * **描述：** 沙发TV - 免费高清影视在线看 | 最新电影、电视剧、综艺、动漫一站式观看平台。
 
 ### 2. 💻 备用地址 (Alternative Website)
-* **地址1：** (https://shafatv.com)
-* **地址2：** (https://shafatv.com)
-* **地址3：** (https://shafatv.com)
-* **地址4：** (https://shafatv.com)
-* **地址5：** (https://shafatv.com)
-* **地址6：** (https://shafatv.com)
+* **地址1：** (https://shafatv.xyz)
+* **地址2：** (https://sofatv.xyz)
+* **地址3：** (https://shafatv.vip)
+* **地址4：** (https://sofatv.vip)
+* **地址5：** (https://sftv777.com)
+* **地址6：** (https://52sofa.vip)
+* **地址7：** (https://52sofa.xyz)
+* **地址8：** (https://52sofa.tw)
+* **地址9：** (https://52sofa.top)
+* **地址10：** (https://52sofa.tv)
 
 ### 3. 📱 移动端/客户端 (Clients)
 * **Android：** 即将上线，敬请期待。
